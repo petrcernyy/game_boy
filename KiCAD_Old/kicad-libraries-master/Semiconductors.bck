@@ -1,0 +1,60 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EM6K7T2R
+D Dual N-Channel Mosfet
+F https://eu.mouser.com/datasheet/2/348/em6k7-e-1139105.pdf
+$ENDCMP
+#
+$CMP FDN5632N-F085
+D MOSFET N-Ch, 60V, 1.7A, SOT-23
+F https://www.onsemi.com/pub/Collateral/FDN5632N_F085-D.PDF
+$ENDCMP
+#
+$CMP IRLML0040TRPBF
+D N-Channel MOSFET, Logic-Level, 40V, 3.6A, Vgs +- 16V
+K N channel, mosfet, logic level
+F https://www.infineon.com/dgdl/irlml0040pbf.pdf?fileId=5546d462533600a401535664894825e4
+$ENDCMP
+#
+$CMP PMV213SN,215
+D N-Channel MOSFET, 100V, 1.9A, Vgs +-30, Rdson 210m, SOT-23
+F https://eu.mouser.com/datasheet/2/916/PMV213SN-1320720.pdf
+$ENDCMP
+#
+$CMP SBR3U40S1F-7
+D Rectifiers SBR Diode 3A SBR SUPER BARRIER RECTIFIER
+F https://www.arrow.com/en/products/sbr3u40s1f-7/diodes-incorporated
+$ENDCMP
+#
+$CMP SI2319DDS-T1-GE3
+D P-Channel MOSFET, 3.6 A, 40 V, Rdson 75m, SOT-23
+F https://www.vishay.com/docs/79400/si2319dds.pdf
+$ENDCMP
+#
+$CMP SI2347DS-T1-GE3
+D P-Channel MOSFET, 5 A, 30 V, Rdson 33m, SOT-23
+F https://cz.mouser.com/datasheet/2/427/VISH_S_A0010613203_1-2570990.pdf
+$ENDCMP
+#
+$CMP SQ2362ES-T1_GE3
+D N-Channel MOSFET, 60V, 4.3A, Rdson 70m, SOT-23
+F https://www.vishay.com/docs/62913/sq2362es.pdf
+$ENDCMP
+#
+$CMP SSM6P41FE(TE85L,F)
+D Dual P-Channel Mosfet, 720mA, 20V, Rdson 300m, SOT-563-6 
+F https://cz.mouser.com/datasheet/2/408/SSM6P41FE_datasheet_en_20140301-1316152.pdf
+$ENDCMP
+#
+$CMP STPS1L30A
+D Schottky barrier diode,STPS1L30A SMA STMicroelectronics STPS1L30A, SMT Schottky Diode, 30V 1A, 2-Pin DO-214AC
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00001323.pdf
+$ENDCMP
+#
+$CMP STPS5H100UF
+D SMT Schottky Diode, 100V 5A, 2-Pin SMBflat, STMicroelectronics, STPS5H100UF
+K Schottky Diode low forward drop 100V 5A
+F http://www.farnell.com/datasheets/3006568.pdf
+$ENDCMP
+#
+#End Doc Library

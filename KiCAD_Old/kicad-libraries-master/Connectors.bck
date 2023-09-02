@@ -1,0 +1,85 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 01x04_Header_Female
+D Female header 2.54mm 1x4
+K connector header female 2.54 1x4
+F https://www.gme.cz/data/attachments/dsh.832-227.1.pdf
+$ENDCMP
+#
+$CMP 15EDGRC3.81-02P
+D Power THT connector, screw terminal 1x2
+K screw terminal
+F https://www.tme.eu/Document/c7e2facf434c6541c93efde757aaf5e6/607.pdf
+$ENDCMP
+#
+$CMP 2213932-2
+D SQUARE TERMINAL BLOCK SMD, HEADER, 2POS
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773930-3_BuchananWM_Brochure&DocType=Data+Sheet&DocLang=English&PartCntxt=2213932-2&DocFormat=pdf
+$ENDCMP
+#
+$CMP 2295018-2
+D USB-C SMD 24pin socket
+F https://www.farnell.com/datasheets/2292385.pdf
+$ENDCMP
+#
+$CMP 2305908-2
+D ROUND SMD TERMINAL BLOCK, HEADER, 2POS, SMD
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773930-3_BuchananWM_Brochure&DocType=Data+Sheet&DocLang=English&PartCntxt=2305908-2&DocFormat=pdf
+$ENDCMP
+#
+$CMP 694106106102
+D DC Power Connectors WR-DC PwrJk CtrPnSMT RtAngld W/4 Sldg Pad
+K Barrel jack connector 2.1/5.5mm entry
+F http://www.mouser.com/ds/2/445/6941xx106102-469316.pdf
+$ENDCMP
+#
+$CMP M22-6550542R
+D 5x2 connector, socket, SMD, angled
+F https://cdn.harwin.com/pdfs/M22-655R.pdf
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-0271_02x1.25mm_Angled
+D Picoblade 2-pin SMD connector
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-0371_03x1.25mm_Angled
+D Picoblade 3-pin SMD connector
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-0471_04x1.25mm_Angled
+D Picoblade 4-pin SMD connector
+F https://www.molex.com/pdm_docs/sd/532610471_sd.pdf
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-0571_05x1.25mm_Angled
+D Picoblade 5-pin SMD connector
+F https://www.molex.com/pdm_docs/sd/532610471_sd.pdf
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-0671_06x1.25mm_Angled
+D Picoblade 6-pin SMD connector
+F https://www.molex.com/pdm_docs/sd/532610671_sd.pdf
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-1071_10x1.25mm_Angled
+D Picoblade 10-pin SMD connector
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/0532611071_PCB_HEADERS.pdf
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-1071_12x1.25mm_Angled
+D Picoblade 12-pin SMD connector
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/0532611271_PCB_HEADERS.pdf
+$ENDCMP
+#
+$CMP Molex_PicoBlade_53261-1271_12x1.25mm_Angled
+D Picoblade 12-pin SMD connector
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/0532611271_PCB_HEADERS.pdf
+$ENDCMP
+#
+$CMP USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+#End Doc Library

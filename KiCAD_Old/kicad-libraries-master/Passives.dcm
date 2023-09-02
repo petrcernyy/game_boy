@@ -1,0 +1,77 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 33μH
+D SMD Inductor for Buck power stage
+F https://eu.mouser.com/datasheet/2/212/1/KEM_L9012_MPX-1628258.pdf
+$ENDCMP
+#
+$CMP ABM3BAIG-8.000MHZ-1Z-T
+D Crystals 18pF 8MHz 10ppm AEC-Q200 -40C +125C
+F https://componentsearchengine.com/Datasheets/1/ABM3BAIG-8.000MHZ-1Z-T.pdf
+$ENDCMP
+#
+$CMP Capacitor_0402
+D Generic Capacitor MLCC 0402
+K MLCC Capacitor ceramic
+$ENDCMP
+#
+$CMP Capacitor_0603
+D Generic Capacitor MLCC 0603
+K MLCC Capacitor ceramic
+$ENDCMP
+#
+$CMP Capacitor_0805
+D Generic Capacitor MLCC 0805
+K MLCC Capacitor ceramic
+$ENDCMP
+#
+$CMP Capacitor_1206
+D Generic Capacitor MLCC 1206
+K MLCC Capacitor ceramic
+$ENDCMP
+#
+$CMP Capacitor_Electrolytic
+D Generic Capacitor Electrolytic
+K Electrolytic capacitor
+$ENDCMP
+#
+$CMP ECS-160-8-30B-CKM
+D Crystals 16.000MHZ 8pF 10ppm -20C +70C
+F https://ecsxtal.com/store/pdf/ecx_53b.pdf
+$ENDCMP
+#
+$CMP Ferrite_Bead
+D SMD Ferrite Bead 0603
+$ENDCMP
+#
+$CMP Fuse_3A
+D SMD 0805 Fuse 3A
+K Fuse 3A SMD 0805
+F https://www.tme.eu/Document/758879ef6f89a2b55535c21e1bcb0ad6/82.pdf
+$ENDCMP
+#
+$CMP Resistor_0402
+D Generic 0402 resistor
+$ENDCMP
+#
+$CMP Resistor_0508
+D Generic 0508 (reversed) resistor
+$ENDCMP
+#
+$CMP Resistor_0603
+D Generic 0603 resistor
+$ENDCMP
+#
+$CMP Resistor_0805
+D Generic 0805 resistor
+$ENDCMP
+#
+$CMP Resistor_0805_precision
+D Precision 0805 resistor
+$ENDCMP
+#
+$CMP Resistor_12010
+D Generic 12010 resistor
+$ENDCMP
+#
+#End Doc Library

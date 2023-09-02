@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MountingHole_Pad
+D Mounting Hole with connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP TestPoint
+D test point
+K test point tp
+F https://eu.mouser.com/datasheet/2/181/S2761R-1291319.pdf
+$ENDCMP
+#
+#End Doc Library

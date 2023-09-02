@@ -1,0 +1,96 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL345BCCZ-RL7
+D ADXL345BCCZ-RL7 Analog Devices, 3-Axis Accelerometer, I2C, SPI, 14-Pin LGA
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
+$ENDCMP
+#
+$CMP BM70BLES1FC2-0002AA
+D Bluetooth v4.2 (BLE) SMART SOC IoT 3V 33-Pin Tray
+F http://ww1.microchip.com/downloads/en/DeviceDoc/BM70-71-Bluetooth-Low-Energy-BLE-Module-Data-Sheet-DS60001372J.pdf
+$ENDCMP
+#
+$CMP BM71BLES1FC2-0B04AA
+D MICROCHIP - BM71BLES1FC2-0B04AA - BLUETOOTH MODULE, V4.2, 2.402-2.48GHZ
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en578477
+$ENDCMP
+#
+$CMP FM25CL64B-DG
+D 64Kbit F-RAM Memory 8Kx8 SPI 3V TDFN8
+F https://www.cypress.com/file/41676/download
+$ENDCMP
+#
+$CMP ICM-20789
+D IMU 7-Axis (Gyro + Accel + Pressure)
+F https://3cfeqx1hf82y3xcoull08ihx-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/DS-000169-ICM-20789-TYP-v1.4.pdf
+$ENDCMP
+#
+$CMP LM5117PMH_NOPB
+D Texas Instruments LM5117PMH/NOPB, DC-DC Controller, 20A, 65 V Step-Down, 530 kHz, 20-Pin, HTSSOP
+F http://www.ti.com/lit/gpn/lm5117
+$ENDCMP
+#
+$CMP LTC2954CTS8-2#TRMPBF
+D Push Button On/Off Controller with uC Interrupt
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2954fb.pdf
+$ENDCMP
+#
+$CMP LTM8074EY#PBF
+D Switching Voltage Regulators 40Vin, 0.7A Step Down uModule Regulator
+F http://www.analog.com/media/en/technical-documentation/data-sheets/LTM8074.pdf
+$ENDCMP
+#
+$CMP MAX7301ATL+
+D Maxim MAX7301ATL+, IO Controller 28-USB, 40-Pin TQFN
+F https://datasheets.maximintegrated.com/en/ds/MAX7301.pdf
+$ENDCMP
+#
+$CMP NCP1117ST33T3G
+D ON SEMICONDUCTOR - NCP1117ST33T3G - IC, LINEAR VOLTAGE REGULATOR 3.3V
+F http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP STM32L476JGY6TR
+D STMICROELECTRONICS - STM32L476JGY6TR - MCU, 32BIT, CORTEX-M4, 80MHZ, WLCSP-72
+F https://www.st.com/resource/en/datasheet/stm32l476jg.pdf
+$ENDCMP
+#
+$CMP STM32L476ZETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 80MHz, 1.71-3.6V, 114 GPIO, LQFP-144
+K ARM Cortex-M4 STM32L4 STM32L4x6
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00108832.pdf
+$ENDCMP
+#
+$CMP STM32L476ZGTx
+D ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 80MHz, 1.71-3.6V, 114 GPIO, LQFP-144
+K ARM Cortex-M4 STM32L4 STM32L4x6
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00108832.pdf
+$ENDCMP
+#
+$CMP TC1015-1.8VCT713
+D LDO regulator 1.8V OUT, 100mA , max 6V IN
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011417
+$ENDCMP
+#
+$CMP TMC2130-TA
+D TRINAMIC - TMC2130-TA - MOTOR DRIVER, STEPPER, TQFP-48
+F https://www.farnell.com/datasheets/3119137.pdf
+$ENDCMP
+#
+$CMP TMP117MAIDRVT
+D Board Mount Temperature Sensors +/-0.1 C accurate digital temperature sensor with integrated NV memory 6-WSON 0 to 85
+F http://www.ti.com/lit/ds/symlink/tmp117.pdf
+$ENDCMP
+#
+$CMP TSRN_1-2450SM
+D 1 Amp POL switching regulator, 3.0 to 42 VDC input, 5V VDC output
+F https://tracopower.com/tsrn1sm-datasheet/
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D Very low capacitance ESD protection diode, 2 data-line, SOT-23-6
+K usb ethernet video
+F https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+$ENDCMP
+#
+#End Doc Library
